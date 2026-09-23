@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AndreewCore&label=Profile%20views&color=3D83E3&style=flat-square" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=AndreewCore&label=Profile%20views&color=3D83E3&style=flat-square" alt="Profile views" /> -->
 
 <!-- center/vCenter: el lienzo del SVG mide 435px y sin ellos el texto se ancla
      al borde izquierdo, aunque la imagen en sí esté centrada. -->
@@ -8,7 +8,7 @@
 
 <img src="https://streak-stats.demolab.com?user=AndreewCore&theme=dark&hide_border=true&background=0D1117&ring=3D83E3&fire=3D83E3&currStreakLabel=3D83E3&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681&currStreakNum=7EE7E7" alt="GitHub Streak" />
 
-### Tecnologías
+### Tech
 
 #### Languages
 
