@@ -14,7 +14,7 @@
 
 - **[cloth-to-go](https://github.com/AndreewCore/cloth-to-go)** — clothing rent system with loyalty points with a mobile app and a website
 - **[GoTutor](https://github.com/AndreewCore/GoTutor)** — webpage for learning the Go programming language using analysis via PLY.
-- **[Anomaly_Detection_in_Anonymized_Logs](https://github.com/AndreewCore/Anomaly_Detection_in_Anonymized_Logs)** — docker Debian 13 environment for brute force SSH log anomaly detection after IP supression
+- **[Anomaly_Detection_in_Anonymized_Logs](https://github.com/AndreewCore/Anomaly_Detection_in_Anonymized_Logs)** — debian 13 environment log anomaly detection after IP supression
 - **[EcoTrack](https://github.com/AndreewCore/EcoTrack)** — java data structures system for managing a recycling plant
 
 <div align="center">
